@@ -1,0 +1,13 @@
+includes:
+    - vendor/larastan/larastan/extension.neon
+
+parameters:
+    parallel:
+        maximumNumberOfProcesses: 1
+    tmpDir: tmp_phpstan
+    level: 5
+    paths:
+        - src
+    reportUnmatchedIgnoredErrors: false
+    ignoreErrors:
+        - '#Property .*?::\$model has no type specified.#'

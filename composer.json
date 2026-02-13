@@ -1,5 +1,5 @@
 {
-  "name": "alizharb/filament-modular-luncher",
+  "name": "borei-studio/filament-modular-luncher",
   "description": "The ultimate Filament module manager for Laravel Modular. Seamlessly search, install, update, and manage your application modules directly from your Filament admin panel. Supports ZIP, Git, and Composer sources.",
   "type": "library",
   "license": "MIT",

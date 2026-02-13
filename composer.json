@@ -37,7 +37,7 @@
     }
   },
   "require": {
-    "php": "^8.3",
+    "php": "^8.2|^8.4",
     "filament/filament": "^4.0",
     "alizharb/laravel-modular": "^1.1",
     "calebporzio/sushi": "^2.5",
